@@ -1,0 +1,8 @@
+{
+  "name": "makefun-news-summary-01",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "make.fun news-summary-01 entry: emits the 11 November 2026 news summary to entry.txt",
+  "license": "MIT"
+}
